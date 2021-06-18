@@ -1,0 +1,16 @@
+{
+  "name": "book_app_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.12",
+    "netlify-cli": "^3.31.16",
+    "serverless-http": "^2.7.0"
+  }
+}
